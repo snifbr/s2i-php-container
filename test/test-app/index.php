@@ -6,7 +6,7 @@
 <h1>PHP is working</h1>
 <p>
 <?php
-	phpinfo();
+	echo date('l jS \of F Y h:i:s A');
 ?>
 </p>
 </body>
